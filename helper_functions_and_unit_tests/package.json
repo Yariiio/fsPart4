@@ -1,0 +1,17 @@
+{
+  "name": "helper_functions_and_unit_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Jari S",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
